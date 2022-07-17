@@ -1,18 +1,23 @@
 
-> Open this page at [https://kritsadaj.github.io/pxt-iled4/](https://kritsadaj.github.io/pxt-iled4/)
+## iLED4 Extension for micro:bit
+Blocks that support iLED4 4-digit LED Display I2C interfacing 
 
-## Use as Extension
+https://inex.co.th/home/product/iled4/
+
+![iLED4](https://inex.co.th/home/wp-content/uploads/2020/11/iLED4-01-512x512.jpg)
+
+แผงวงจรสำหรับงานแสดงผลด้วย LED ตัวเลข 7 ส่วน 4 หลัก พร้อมจุดโคลอน (:) และจุดทศนิยม (dp) ที่ LED แต่ละหลักรวม 4 จุด ความสูงของ LED 0.56 นิ้ว ติดตั้งบนแผ่นรองพลาสติกเพื่อความปลอดภัยในการใช้งาน
+
+
+![iLED4Circuit](https://drive.google.com/uc?id=1xyimhXCd7uUe65xZ3FAhGvlg6hJtb6W3)
 
 This repository can be added as an **extension** in MakeCode.
-
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/kritsadaj/pxt-iled4** and import
 
-## Edit this project ![Build status badge](https://github.com/kritsadaj/pxt-iled4/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
@@ -23,7 +28,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/kritsadaj/pxt-iled4/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/kritsadaj/pxt-iled4/master/blocks.png)
 
 #### Metadata (used for search, rendering)
 
