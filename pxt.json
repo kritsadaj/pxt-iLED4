@@ -1,6 +1,6 @@
 {
     "name": "pxt-iled4",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,8 +9,8 @@
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "main.ts",
+        "iLED4.ts"
     ],
     "testFiles": [
         "test.ts"
