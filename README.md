@@ -31,7 +31,3 @@ This image may take a few minutes to refresh.
 ## License
 
 MIT
-
-## Supported targets
-
-* for PXT/calliopemini
