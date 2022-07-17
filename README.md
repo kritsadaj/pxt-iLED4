@@ -4,7 +4,7 @@ Blocks that support iLED4 4-digit LED Display I2C interfacing
 
 https://inex.co.th/home/product/iled4/
 
-![iLED4](https://inex.co.th/home/wp-content/uploads/2020/11/iLED4-01-512x512.jpg)
+![iLED4](https://github.com/kritsadaj/pxt-iLED4/blob/master/ILED4.png)
 
 แผงวงจรสำหรับงานแสดงผลด้วย LED ตัวเลข 7 ส่วน 4 หลัก พร้อมจุดโคลอน (:) และจุดทศนิยม (dp) ที่ LED แต่ละหลักรวม 4 จุด ความสูงของ LED 0.56 นิ้ว ติดตั้งบนแผ่นรองพลาสติกเพื่อความปลอดภัยในการใช้งาน
 
